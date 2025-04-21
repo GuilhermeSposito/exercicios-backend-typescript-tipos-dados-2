@@ -1,0 +1,72 @@
+[
+    {
+        "nome": "João Silva",
+        "email": "joao.silva@email.com",
+        "cpf": "123.456.789-00",
+        "profissao": "Engenheiro",
+        "endereco": {
+            "cep": "01001-000",
+            "rua": "Rua da Engenharia",
+            "complemento": "Apto 101",
+            "bairro": "Centro",
+            "cidade": "São Paulo"
+        }
+    },
+    {
+        "nome": "Maria Oliveira",
+        "email": "maria.oliveira@email.com",
+        "cpf": "987.654.321-00",
+        "endereco": {
+            "cep": "20040-000",
+            "rua": "Avenida das Artes",
+            "bairro": "Lapa",
+            "cidade": "Rio de Janeiro"
+        }
+    },
+    {
+        "nome": "Carlos Souza",
+        "email": "carlos.souza@email.com",
+        "cpf": "456.789.123-00",
+        "profissao": "Professor",
+        "endereco": null
+    },
+    {
+        "nome": "Bruna Costa",
+        "email": "bruna.costa@email.com",
+        "cpf": "321.654.987-00",
+        "profissao": "Designer",
+        "endereco": {
+            "cep": "30130-010",
+            "rua": "Rua da Criatividade",
+            "complemento": "Sala 205",
+            "bairro": "Savassi",
+            "cidade": "Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Bruna teste",
+        "email": "bruna.costa@email.com",
+        "cpf": "321.654.987-00",
+        "profissao": "Designer",
+        "endereco": {
+            "cep": "30130-010",
+            "rua": "Rua da Criatividade",
+            "complemento": "Sala 205",
+            "bairro": "Savassi",
+            "cidade": "Belo Horizonte"
+        }
+    },
+    {
+        "nome": "Bruna jiu jipsy",
+        "email": "bruna.costa@email.com",
+        "cpf": "321.654.987-00",
+        "profissao": "Designer",
+        "endereco": {
+            "cep": "30130-010",
+            "rua": "Rua da Criatividade",
+            "complemento": "Sala 205",
+            "bairro": "Savassi",
+            "cidade": "Belo Horizonte"
+        }
+    }
+]
